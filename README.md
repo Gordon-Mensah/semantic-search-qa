@@ -176,6 +176,12 @@ def tsne_plot(data):
 
 ---
 
+## 📚 Learning Journey
+
+This project is part of my learning journey through **Coursera**, where I’m deepening my skills in machine learning, natural language processing, and AI engineering. I'm applying what I learn by building practical tools and pipelines like this one.
+
+---
+
 ## 🤝 Acknowledgments
 
-Thanks to the open-source community for enabling fast experimentation with advanced NLP tools!
+Thanks to the open-source community and platforms like Hugging Face, Coursera, and GitHub for making high-quality learning and experimentation accessible to all.
