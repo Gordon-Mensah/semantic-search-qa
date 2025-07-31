@@ -3,7 +3,7 @@
 This project implements a semantic document search and question-answering (QA) pipeline using state-of-the-art NLP models from Hugging Face. It combines **Dense Passage Retrieval (DPR)**, **FAISS**, and **GPT-2** to enable natural language queries over unstructured text documents — with optional visualization using **t-SNE**.
 
 ---
-
+ 
 ## 🔍 Use Case
 
 Given a long unstructured policy document, the system allows users to:
